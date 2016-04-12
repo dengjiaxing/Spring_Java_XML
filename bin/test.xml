@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HD>
+	<!-- 描述电脑C盘信息 -->
+	<disk name="C">
+		<capacity>20G</capacity>
+		<directories>100</directories>
+		<files>123456</files>
+	</disk>
+	<!-- 描述电脑D盘信息 -->
+	<disk name="D">
+		<capacity>100G</capacity>
+		<directories>999</directories>
+		<files>987654</files>
+	</disk>
+</HD>
